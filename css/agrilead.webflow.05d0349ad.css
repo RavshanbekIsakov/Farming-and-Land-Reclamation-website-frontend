@@ -2548,6 +2548,10 @@ blockquote {
   padding-bottom: 0;
 }
 
+.hole {
+  height: 100px;
+}
+
 .section.about-section {
   padding-top: 280px;
   position: relative;
