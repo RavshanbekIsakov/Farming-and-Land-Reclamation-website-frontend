@@ -3137,6 +3137,7 @@ blockquote {
 .team-social-link {
   width: 60px;
   height: 60px;
+  border-radius: 30px;
   background-color: var(--grey);
   font-family: "Fa Brands 400", sans-serif;
   font-weight: 400;
@@ -3391,7 +3392,7 @@ blockquote {
 }
 
 .footer-logo {
-  width: 220px;
+  width: 50px;
 }
 
 .footer-list {
@@ -5381,6 +5382,10 @@ blockquote {
 
   .hero-heading {
     font-size: 54px;
+  }
+
+  .hero-heading2 {
+    font-size: 24px;
   }
 
   .section-heading {
